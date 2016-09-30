@@ -1,4 +1,4 @@
-# CHS AP Computer Science Resources 2016
+# CHS AP Compooter Ziene Risorces 2016
 
 ## Our Toolchain - the program development software (tools) we use.
 
@@ -12,11 +12,11 @@
 [git]: https://git-scm.com
 [GH]: https://github.com
 
-## Java
+## j@v@
 
-## IntelliJ
+## !ntell!J
 
-## git and GitHub
+## git and GitHub and git and GitHub
 
 * Tutorial to learn GitHub's flavor of [Markdown][gfmd]: Markdown is a markup language for styling your writing on GitHub, it is widely used when people want to share documents.
 
